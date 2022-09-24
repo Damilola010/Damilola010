@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Damilola010
 - 👀 I’m interested in collaboration on any project
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m a Software Engineer / DevOps
 - 💞️ I’m looking to collaborate on any kind of project
 - 📫 How to reach me - Dhamedrah@gmail.com
 
